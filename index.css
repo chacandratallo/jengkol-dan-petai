@@ -1,0 +1,43 @@
+/* Created Using Easy HTML v1.4.5 */
+/* https://play.google.com/store/apps/details?id=ak.andro.easyhtml */
+
+.tabel{
+  color:white;
+  border : solid red;
+  height: 495px ;
+  width:370px ;
+}
+.header {
+  border : solid yellow;
+  line-height:10px;
+  height: 40px ;
+  width:360px ;
+  background-color:steelblue;
+  color:white;
+  text-align:center;
+  padding:4px;
+  
+}
+.nav {
+  line-height:110px;
+  background-color:blue;
+  height:423px;
+  width:120px;
+  float: left;
+  text-align : center;
+}
+.section {
+  border : solid black;
+  background-color:green;
+  width:237px;
+  height:410px;
+  float:right;
+  color:white;
+  padding : 5px;
+}
+.footer {
+  background-color:steelblue;
+  color:white;
+  clear:both;
+  text-align:center;
+}
